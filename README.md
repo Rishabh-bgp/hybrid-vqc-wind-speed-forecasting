@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/img/banner.svg" alt="Hybrid VQC Wind Speed Forecasting: Daoist-style banner, reference implementation by Rishabh Aryan" width="100%"></p>
+<p align="center"><img src="docs/img/banner.png" alt="Hybrid VQC Wind Speed Forecasting: Daoist-style banner, reference implementation by Rishabh Aryan" width="100%"></p>
 
 # Hybrid Variational Quantum Circuit (HVQC) for Wind Speed Forecasting: PyTorch + PennyLane Reference Implementation
 
