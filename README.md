@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/img/banner.png" alt="Hybrid VQC Wind Speed Forecasting: Daoist-style banner, reference implementation by Rishabh Aryan" width="100%"></p>
 
-# Hybrid Variational Quantum Circuit (HVQC) for Wind Speed Forecasting: PyTorch + PennyLane Reference Implementation
+# Hybrid Variational Quantum Circuit (HVQC) for Wind Speed Forecasting (Reference Implementation)
 
 [![Live demo](https://img.shields.io/badge/Live%20demo-GitHub%20Pages-b3121b)](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) [![CI](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/actions/workflows/ci.yml) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/blob/main/notebooks/hybrid-vqc-wind-speed-forecasting_walkthrough.ipynb) [![License: MIT](https://img.shields.io/badge/License-MIT-d4af37.svg)](LICENSE) ![Python 3.12](https://img.shields.io/badge/python-3.12-1a1a1a) ![Data: synthetic](https://img.shields.io/badge/data-synthetic-1a1a1a)
 
