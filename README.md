@@ -2,7 +2,7 @@
 
 # Hybrid Variational Quantum Circuit (HVQC) for Wind Speed Forecasting: PyTorch + PennyLane Reference Implementation
 
-[![Live demo](https://img.shields.io/badge/Live%20demo-GitHub%20Pages-b3121b)](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/blob/main/notebooks/hybrid-vqc-wind-speed-forecasting_walkthrough.ipynb)
+[![Live demo](https://img.shields.io/badge/Live%20demo-GitHub%20Pages-b3121b)](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/) [![CI](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/actions/workflows/ci.yml) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting/blob/main/notebooks/hybrid-vqc-wind-speed-forecasting_walkthrough.ipynb)
 
 > **Reference implementation.** This is the reference implementation of my paper (Rishabh Aryan et al.), rebuilt in Python on synthetic data because the original SCADA data is confidential. Results will differ from the published numbers. Authors: Rishabh Aryan and Sonam Eyden. All quantum components run **on a classical simulator only** (PennyLane `default.qubit`, CPU, 4 qubits, 2 layers by default; the paper uses 8 qubits and 4 layers).
 > Results from this code **will differ** from the published results, and the numbers reported in the paper have **not** been reproduced here.
